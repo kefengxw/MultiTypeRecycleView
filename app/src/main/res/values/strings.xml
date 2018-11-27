@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Knews</string>
+    <string name="tab_text_1">tab_text_1</string>
+    <string name="tab_text_2">tab_text_2</string>
+    <string name="tab_text_3">tab_text_3</string>
+    <string name="tool_bar_title">svt NYHETER</string>
+    <string name="tool_bar_subtitle">NYHETER</string>
+    <string name="tab_text_start">START</string>
+    <string name="tab_text_local">LOKALT</string>
+    <string name="tab_text_latest">SENASTE</string>
+    <string name="tab_text_favor">SPARAT</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="sweden_stockholm_and_jonkoping_and_umea_and_goteborg_and_malmo_and_gotland">Sweden Stockholm and Jonkoping and Umea and Goteborg and Malmo and Gotland</string>
+</resources>

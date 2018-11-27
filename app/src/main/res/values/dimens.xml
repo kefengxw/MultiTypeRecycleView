@@ -1,0 +1,21 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <!--component padding -->
+    <dimen name="appbar_padding_top">38dp</dimen>
+    <dimen name="padding_between_list">55dp</dimen>
+    <dimen name="padding_to_left">30dp</dimen>
+    <dimen name="padding_to_right">30dp</dimen>
+    <!--text padding -->
+    <dimen name="padding_text_to_top">8dp</dimen>
+    <dimen name="padding_text_to_left">8dp</dimen>
+    <dimen name="padding_text_to_right">8dp</dimen>
+    <dimen name="padding_text_to_bottom">8dp</dimen>
+    <dimen name="padding_text_to_text">8dp</dimen>
+    <!-- size -->
+    <dimen name="breaking_size">32dp</dimen>
+    <dimen name="cardview_bold_text_size">32dp</dimen>
+    <dimen name="cardview_text_size">32dp</dimen>
+</resources>
